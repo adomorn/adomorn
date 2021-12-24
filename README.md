@@ -1,7 +1,7 @@
 
  
  <p align="center"> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adomorn&layout=compact&theme=onedark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adomorntheme=onedark" />
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adomorn&count_private=true&show_icons=true&theme=onedark" />
 <p>  
   <p align="center">
