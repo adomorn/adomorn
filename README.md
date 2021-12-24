@@ -1,8 +1,8 @@
 
  
  <p align="center"> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adomorn&theme=onedark" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adomorn&count_private=true&show_icons=true&theme=onedark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adomorn&theme=radical" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adomorn&count_private=true&show_icons=true&theme=radical" />
 <p>  
   <p align="center">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=adomorn&theme=vue-dark&date_format=j%20M%5B%20Y%5D" />
