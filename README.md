@@ -32,11 +32,13 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,java,spring" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,dotnet,cs" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,kubernetes,aws,gcp,git,github" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,kubernetes,aws,gcp" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,figma,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,tailwind,bootstrap,materialui" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,windows,linux,bash" />
 </div>
 
 ---
