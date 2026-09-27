@@ -1,30 +1,50 @@
-# Arda Terekeci
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Arda Terekeci — adomorn. C# / .NET and developer tools." />
+</p>
 
-C# / .NET developer building libraries and developer tools, with an interest in practical open-source contributions.
+<p align="center">
+  <strong>Libraries with a purpose. Tools for the everyday.</strong><br />
+  C# / .NET, a little Swift, and a curiosity for making things work better.
+</p>
 
-My projects focus on JSON manipulation, explicit error handling, and tools that make everyday development easier. I also work with JavaScript browser extensions and Swift on macOS.
+<p align="center">
+  <img src="./assets/stack.svg" width="496" alt="C#, .NET, JavaScript, Swift" />
+</p>
 
-## Selected projects
+<p align="center">
+  <a href="https://terekeci.dev/">Website</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/ardaterekeci/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://github.com/search?q=author%3Aadomorn+is%3Apr+is%3Apublic&amp;type=pullrequests">Open-source activity</a>
+</p>
 
-| Project | What it does |
-| --- | --- |
-| [StructuredJson](https://github.com/adomorn/StructuredJson) | Read and update nested JSON in C# using paths, without creating model classes. Includes typed reads, examples, and cross-platform CI. |
-| [Resultant](https://github.com/adomorn/Resultant) | A C# Result-pattern library for explicit success and failure handling, error aggregation, and asynchronous operations. |
-| [GitHub Enhancer](https://github.com/adomorn/Github-Enhancer) | A Chrome extension with customizable GitHub interface enhancements and expanded timestamps. |
-| [GH Alerter](https://github.com/adomorn/gh-alerter) | A native macOS menu bar app for GitHub review requests and pull request approvals. |
-| [DateTimeNow](https://github.com/adomorn/DateTimeNow) | A Visual Studio extension that replaces `DateTime.Now` and `DateTime.UtcNow` with timestamp literals. |
+<br />
 
-## Open-source contributions
+### Selected work
 
-A selection of pull requests; each link shows its current review or merge status:
+<p align="center">
+  <a href="https://github.com/adomorn/StructuredJson"><img src="./assets/structured-json.svg" width="400" alt="StructuredJson — read and update nested JSON in C# without model classes." /></a>
+  <a href="https://github.com/adomorn/Resultant"><img src="./assets/resultant.svg" width="400" alt="Resultant — explicit success and failure handling for C# and .NET." /></a>
+  <a href="https://github.com/adomorn/Github-Enhancer"><img src="./assets/github-enhancer.svg" width="400" alt="GitHub Enhancer — customizable GitHub interface enhancements for Chrome." /></a>
+  <a href="https://github.com/adomorn/gh-alerter"><img src="./assets/gh-alerter.svg" width="400" alt="GH Alerter — GitHub review requests and approvals in the macOS menu bar." /></a>
+</p>
 
-- [ASP.NET Core: restrict the migrations endpoint to form POST requests](https://github.com/dotnet/aspnetcore/pull/69564).
-- [AutoFixture: fix guard clause assertions for self-referencing interface constraints](https://github.com/AutoFixture/AutoFixture/pull/1569).
-- [Npgsql EF Core provider: add Daitch–Mokotoff fuzzy string matching support](https://github.com/npgsql/efcore.pg/pull/3922).
-- [EFCore.NamingConventions: fix culture handling for naming conventions](https://github.com/efcore/EFCore.NamingConventions/pull/25).
+Also built: **[DateTimeNow](https://github.com/adomorn/DateTimeNow)** — a Visual Studio extension for turning clock reads into fixed timestamp expressions.
 
-## Collaboration
+<br />
 
-I'm interested in .NET libraries, developer tooling, reproducible bug reports, regression tests, and documentation improvements. For project-specific questions or contributions, start with the repository's issues and contribution guidelines where available.
+### Beyond my own repos
 
-[Website](https://terekeci.dev/) · [LinkedIn](https://www.linkedin.com/in/ardaterekeci/) · [Public pull requests](https://github.com/search?q=author%3Aadomorn+is%3Apr+is%3Apublic&type=pullrequests)
+I contribute fixes, tests, and features to the .NET ecosystem. A few recent PRs:
+
+**[ASP.NET Core](https://github.com/dotnet/aspnetcore/pull/69564)** · migrations endpoint request handling  
+**[AutoFixture](https://github.com/AutoFixture/AutoFixture/pull/1569)** · self-referencing interface constraints  
+**[Npgsql / EF Core](https://github.com/npgsql/efcore.pg/pull/3922)** · Daitch–Mokotoff fuzzy string matching
+
+Earlier: [culture handling in EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions/pull/25). Each PR link shows its current review or merge status.
+
+---
+
+<p align="center">
+  Open to collaborating on <strong>.NET libraries, developer tools, and useful fixes.</strong><br />
+  Have a concrete idea? Start an issue in the relevant project or find me on <a href="https://www.linkedin.com/in/ardaterekeci/">LinkedIn</a>.
+</p>

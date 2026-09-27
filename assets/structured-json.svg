@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-label="StructuredJson: JSON, without the model classes. Read and update nested data by path.">
+<rect width="719" height="299" x=".5" y=".5" rx="18" fill="#0d1720" stroke="#273b43"/>
+<path d="M38 33h30" stroke="#82dbc3" stroke-width="3"/>
+<text x="84" y="40" fill="#a1b5bc" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">01 / SELECTED WORK</text>
+<text x="38" y="104" fill="#f1eee5" font-family="Georgia,serif" font-size="42">StructuredJson</text>
+<text x="38" y="153" fill="#d6e1e3" font-family="Arial,sans-serif" font-size="23">JSON, without the model classes.</text>
+<text x="38" y="188" fill="#a1b5bc" font-family="Arial,sans-serif" font-size="21">Read and update nested data by path.</text>
+<path d="M38 220H682" stroke="#273b43"/>
+<text x="38" y="264" fill="#82dbc3" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">C#  /  .NET</text>
+<text x="650" y="267" fill="#82dbc3" font-family="Arial,sans-serif" font-size="30">↗</text>
+</svg>
