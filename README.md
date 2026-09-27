@@ -34,13 +34,11 @@ Also built: **[DateTimeNow](https://github.com/adomorn/DateTimeNow)** — a Visu
 
 ### Beyond my own repos
 
-I contribute fixes, tests, and features to the .NET ecosystem. A few recent PRs:
+Fixes and features I've implemented for issues in the .NET ecosystem and submitted upstream:
 
-**[ASP.NET Core](https://github.com/dotnet/aspnetcore/pull/69564)** · migrations endpoint request handling  
-**[AutoFixture](https://github.com/AutoFixture/AutoFixture/pull/1569)** · self-referencing interface constraints  
-**[Npgsql / EF Core](https://github.com/npgsql/efcore.pg/pull/3922)** · Daitch–Mokotoff fuzzy string matching
-
-Earlier: [culture handling in EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions/pull/25). Each PR link shows its current review or merge status.
+- **[ASP.NET Core · #46638](https://github.com/dotnet/aspnetcore/issues/46638)** — Fixed migrations endpoint exceptions caused by unsupported request methods and content types.
+- **[AutoFixture · #987](https://github.com/AutoFixture/AutoFixture/issues/987)** — Fixed guard clause assertions for self-referencing generic interface constraints.
+- **[Npgsql / EF Core · #3524](https://github.com/npgsql/efcore.pg/issues/3524)** — Added Daitch–Mokotoff fuzzy string matching support for PostgreSQL.
 
 ---
 
