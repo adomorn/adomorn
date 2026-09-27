@@ -39,6 +39,7 @@ Fixes and features I've implemented for issues in the .NET ecosystem and submitt
 - **[ASP.NET Core · #46638](https://github.com/dotnet/aspnetcore/issues/46638)** — Fixed migrations endpoint exceptions caused by unsupported request methods and content types.
 - **[AutoFixture · #987](https://github.com/AutoFixture/AutoFixture/issues/987)** — Fixed guard clause assertions for self-referencing generic interface constraints.
 - **[Npgsql / EF Core · #3524](https://github.com/npgsql/efcore.pg/issues/3524)** — Added Daitch–Mokotoff fuzzy string matching support for PostgreSQL.
+- **[EFCore.NamingConventions · #19](https://github.com/efcore/EFCore.NamingConventions/issues/19)** — Fixed culture-dependent casing by defaulting to invariant culture and supporting explicit culture selection. Merged upstream.
 
 ---
 
